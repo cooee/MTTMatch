@@ -1,7 +1,9 @@
  '<module_name> module require is not supported by Remix IDE' will be shown.
 创建比赛
-
 11 ,0xd9145CCE52D386f254917e481eB44e9943F39138 ,1000000000000000000 ,1762892500
+
+比赛结果
+11 ,[600,400] , 1000 , 0x1fa758f5992c5cf63c09d743248835b4cf5b5bb0166ec866ec9fcf803b1ed781 ,0
 
 testtoken
 0xd9145CCE52D386f254917e481eB44e9943F39138

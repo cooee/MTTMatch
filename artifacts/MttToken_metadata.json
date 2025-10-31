@@ -265,7 +265,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/testToken.sol": "MTTToken"
+			"contracts/MTTToken.sol": "MTTToken"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -279,7 +279,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/testToken.sol": {
+		"contracts/MTTToken.sol": {
 			"keccak256": "0xf557b5176e181e0ce8cf84c82efc32ec47eac285e601aa57097409e9629e7181",
 			"license": "MIT",
 			"urls": [
