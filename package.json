@@ -1,0 +1,11 @@
+{
+  "name": "sol-tournament-distributor",
+  "version": "1.0.0",
+  "description": "Tournament Distributor Contract Scripts",
+  "scripts": {
+    "calculate-merkle": "node scripts/calculate_merkle.js"
+  },
+  "dependencies": {
+    "ethers": "^6.9.0"
+  }
+}
